@@ -144,7 +144,7 @@ $user_id = $_SESSION['user_id'];
 <section class="home-contact">
 
    <div class="content">
-      <h3>have any questions?</h3>
+      <h3>have any question?</h3>
       <a href="contact.php" class="btn">contact us</a>
    </div>
 
